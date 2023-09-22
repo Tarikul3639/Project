@@ -1,0 +1,38 @@
++------------------------------------------------------------------+
+| 1.                                                               |
+|   Md. Saifur Rahman                                              |
+|   -----------------                                              |
+|   Assistant Professor & Chairman(Acting)                         |
+|   Department of Computer Science & Engineering                   |
+|   Faculty Code: SR                                               |
+|   EMAIL ADDRESS: saifurs@gmail.com                               |
+|   OFFICE: Room: 421, Building: B-2 BUBT                          |
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 2.                                                               |
+|   Jubayer Al Mahmud                                              |
+|   -----------------                                              |
+|   Assistant Professor                                            |
+|   Department of Computer Science & Engineering                   |
+|   Faculty Code: JAM                                              |
+|   EMAIL ADDRESS: jmahmud@bubt.edu.bd                             |
+|   OFFICE: Room: 911, Building: 2 BUBT                            |
+|                                                                  |
+|   RESEARCH AREA                                                  |
+|   Machine Learning, Computer Vision, Human-Robot Interaction     |
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 3.                                                               |
+|   Md Ashraful Islam                                              |
+|   -----------------                                              |
+|   Assistant Professor                                            |
+|   Department of Computer Science & Engineering                   |
+|   Faculty Code: MAFI                                             |
+|   EMAIL ADDRESS: ashraful@bubt.edu.bd                            |
+|   OFFICE: Room: Room-314, Building: B-1 BUBT                     |
+|                                                                  |
+|   RESEARCH AREA                                                  |
+|   Artificial Intelligence (AI)                                   |
++------------------------------------------------------------------+
