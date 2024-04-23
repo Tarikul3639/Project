@@ -1,0 +1,60 @@
+/* Media query */
+
+@media (max-width:1200px){
+    html{
+        font-size: 65%;
+    }
+} 
+
+@media screen and (max-width: 1200px ) {
+    .navlist li{
+        padding-left: 0;
+        margin-left: 0;
+        margin-right: 3rem;
+    }
+
+    .navlist li a{
+        padding-left: 0;
+        margin:0;
+        margin-left: 2rem;
+        font-size: 150%;
+    }
+    
+    .profile_design{
+    position: relative;
+    top: 50%;
+    left: -50%;
+    transform: translate(-0%, -25%);
+    }
+
+    .left_container .content{
+        margin-top: 30rem;
+        padding: 0;
+        margin-left: -11rem;
+
+
+    }
+    .content .intro{
+        font-size: 200%;
+    }
+    .content .details{
+        font-size: 150%;
+
+    }
+    .content .buttons{
+        margin-top: 7rem;
+    }
+    .left_container .icons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 46rem;
+    left: -50%;
+    transform: translate(-5%, -30%);
+    }
+    
+
+    .left_container,.content{
+        margin-left: 22%;
+    }
+    
+}
