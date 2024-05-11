@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #3d3d3d;
+    display: flex;
+    justify-content: center;
+}
+.div1 {
+    margin-top: 5rem;
+    width: 40rem;
+    height: 35rem;
+    border-radius: 10%;
+    background-color: #efeded;
+    overflow: hidden;
+    overflow-y: scroll;
+    scrollbar-width: thin; /* Fallback for Firefox */
+    scrollbar-color: #888 transparent; /* Fallback for Firefox */
+    /* For Chrome, Edge, and Safari */
+    scrollbar-width: thin; 
+    scrollbar-color: #888 transparent;
+    /* For Firefox */
+    scrollbar-color: #888 transparent;
+    scroll-behavior: smooth;
+  
+}
+
+.Country_input{
+    height: 1.5rem;
+    width: 10rem;
+    margin-top: 2rem;
+    margin-left:12rem;
+    border: 0.3rem solid grey;
+    border-radius: 2rem;
+    text-align:center;
+}
+button{
+    height: 2.1rem;
+    width: 4rem;
+    border: 0.3rem solid grey;
+    border-radius: 2rem;
+    text-align:center;
+    background-color: #efeded;
+}
+
+
+
+
+
+.versity_list{
+    padding-top: 2rem;
+    margin-left: 5rem;
+}
+.versity_url{
+margin-left: 1rem;
+}
