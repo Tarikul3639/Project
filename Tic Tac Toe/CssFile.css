@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  gap: 0;
+}
+body{
+  background-color: #3d3d3d;
+}
+.container {
+  position: absolute; /* Sets the positioning context for child elements */
+  top: 50%; /* Moves the container down by 50% of its own height */
+  left: 50%; /* Moves the container right by 50% of its own width */
+  transform: translate(-50%,-50%); /* Moves the container back up by 50% of its own height and left by 50% of its own width */
+  width: 100vmin; /* Sets the width of the container to 40rem */
+  height: 100vmin; /* Sets the height of the container to 40rem */
+  background-color: #08338f07; /* Sets the background color of the container */
+  border-radius: 1.5rem;
+  
+}
+
+
+h1 {
+  position: absolute;
+  top: 3%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  color:whitesmoke;
+}
+
+
+.game{
+  position: absolute;
+  top: 48%; 
+  left: 50%; 
+  transform: translate(-50%,-50%); 
+  width: 80vmin; 
+  height: 75vmin; 
+  background-color: #0350472d; 
+  display: flex;
+  flex-wrap: wrap;
+  line-gap-override: 1.5vmin;
+  border-radius: 1.5rem;
+  
+}
+
+.Box{
+  width: 24vmin; 
+  height: 23vmin; 
+  background-color: #f4f6f8; 
+  margin-left: 2vmin;
+  margin-top: 1vmin;
+  border-radius: 1.5rem;
+  box-shadow: 0 0 1rem rgb(0,0,0,0.3);
+  font-size: 15vmin;
+  color: #191913;
+
+  
+}
+
+.reset{
+  height: 6vmin;
+  width: 15vmin;
+  position: absolute;
+  top: 92%; 
+  left: 50%; 
+  transform: translate(-50%,-50%); 
+  border-radius: .7rem;
+  background-color: #191913;
+  color: whitesmoke;
+  font-size: 2.2vmin;
+  box-shadow: 0 0 1rem rgb(0,0,0,0.3);
+}
+
+
+
+.Message{
+  position: absolute;
+  top: 48%; 
+  left: 50%; 
+  transform: translate(-50%,-50%); 
+  width: 80vmin; 
+  height: 75vmin; 
+  background-color: #0da9c5d4;
+  border-radius: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.h2_Message{
+   font-size: 4rem;
+   color: #cd0e1e;
+}
